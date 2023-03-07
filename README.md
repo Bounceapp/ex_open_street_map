@@ -1,10 +1,10 @@
-# ExOpenStreetMap
+# ExOpenStreetMap [![Hex pm](https://img.shields.io/hexpm/v/ex_open_street_map.svg?style=flat)](https://hex.pm/packages/ex_open_street_map) [![hex.pm downloads](https://img.shields.io/hexpm/dt/ex_open_street_map.svg?style=flat)](https://hex.pm/packages/ex_open_street_map)
 
-**TODO: Add description**
+An Elixir wrapper for Open Street Map Nominatim's API.
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+The package can be installed
 by adding `ex_open_street_map` to your list of dependencies in `mix.exs`:
 
 ```elixir
@@ -15,7 +15,4 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/ex_open_street_map>.
-
+The docs can be found at <https://hexdocs.pm/ex_open_street_map>.
